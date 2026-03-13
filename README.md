@@ -1,5 +1,11 @@
 # SENADA – Indigenous Language Learning App
 
+## Team Member's Name
+1. NURUL SYAHMINA BINTI BUSRA
+2. KHAIRUNNISA BINTI JUNAIDI
+3. EVALINDA MIUN
+4. NOOR AZUAH BINTI SAWAL
+
 ## Project Overview
 SENADA is a mobile application prototype designed to help users learn and preserve indigenous languages through interactive lessons, vocabulary practice, and engaging activities. The platform focuses on making indigenous language learning accessible, interactive, and culturally meaningful.
 
@@ -33,22 +39,22 @@ Everything in the Basic Plan, plus:
 - Extra daily challenge coins
 - Premium badge
 
-## Figma Prototype
+## Figma Prototype Link
 https://www.figma.com/design/tomiU3OqhCkOg5jDS0BWGS/Untitled?node-id=0-1&t=Ukf9SWlhKyE4ESK3-1
 
-## Demo Video
+## Demo Video Link
 https://youtu.be/3P_wdySI-yM
 
 ## How to Test the Prototype
 1. Open the Figma prototype link
-2. Click "Play Prototype"
+2. Click "Present" button at the top right corner
 3. Navigate through the screens to explore the application features
 
 ## Repository Contents
 - README.md
 - Final Report (PDF)
-- Prototype link
-- Demo video link (pitching + demo)
+- Figma Prototype Link
+- Demo Video Link (pitching + demo)
 
 ## Project Goal
 The goal of SENADA is to support the preservation of indigenous languages by providing an engaging and accessible digital learning platform.
