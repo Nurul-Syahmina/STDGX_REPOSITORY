@@ -34,10 +34,10 @@ Everything in the Basic Plan, plus:
 - Premium badge
 
 ## Figma Prototype
-(https://www.figma.com/design/tomiU3OqhCkOg5jDS0BWGS/Untitled?node-id=0-1&t=Ukf9SWlhKyE4ESK3-1)
+https://www.figma.com/design/tomiU3OqhCkOg5jDS0BWGS/Untitled?node-id=0-1&t=Ukf9SWlhKyE4ESK3-1
 
 ## Demo Video
-(https://youtu.be/3P_wdySI-yM)
+https://youtu.be/3P_wdySI-yM
 
 ## How to Test the Prototype
 1. Open the Figma prototype link
