@@ -1,4 +1,3 @@
-# STDGX_REPOSITORY
 # SENADA – Indigenous Language Learning App
 
 ## Project Overview
