@@ -34,12 +34,10 @@ Everything in the Basic Plan, plus:
 - Premium badge
 
 ## Figma Prototype
-Paste your Figma prototype link here.
-
-Ensure the link permission is set to **Anyone with the link can view** so judges can access it.
+(https://www.figma.com/design/tomiU3OqhCkOg5jDS0BWGS/Untitled?node-id=0-1&t=Ukf9SWlhKyE4ESK3-1)
 
 ## Demo Video
-Paste your demo video link here (Pitching + Demo).
+(https://youtu.be/3P_wdySI-yM)
 
 ## How to Test the Prototype
 1. Open the Figma prototype link
